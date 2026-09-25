@@ -1,0 +1,177 @@
+[
+  {
+    "question": "Name a country that has never hosted the Olympics.",
+    "answers": [
+      {
+        "label": "United States",
+        "category": "plankton",
+        "points": 10
+      },
+      {
+        "label": "Madagascar",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "Tuvalu",
+        "category": "one in a krillion",
+        "points": 100
+      },
+      {
+        "label": "Suriname",
+        "category": "rare",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "question": "Name something you might find in a lighthouse.",
+    "answers": [
+      {
+        "label": "A lamp",
+        "category": "plankton",
+        "points": 10
+      },
+      {
+        "label": "A foghorn",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "A Fresnel lens",
+        "category": "deep pull",
+        "points": 85
+      },
+      {
+        "label": "A keeper's logbook",
+        "category": "rare",
+        "points": 60
+      }
+    ]
+  },
+  {
+    "question": "Name a species that glows in the dark.",
+    "answers": [
+      {
+        "label": "Firefly",
+        "category": "plankton",
+        "points": 10
+      },
+      {
+        "label": "Glow worm",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "Vampire squid",
+        "category": "rare",
+        "points": 60
+      },
+      {
+        "label": "Panellus stipticus",
+        "category": "one in a krillion",
+        "points": 100
+      }
+    ]
+  },
+  {
+    "question": "Name a language spoken by fewer than one million people.",
+    "answers": [
+      {
+        "label": "Icelandic",
+        "category": "plankton",
+        "points": 10
+      },
+      {
+        "label": "Welsh",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "Basque",
+        "category": "rare",
+        "points": 60
+      },
+      {
+        "label": "Ainu",
+        "category": "deep pull",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "question": "Name a film set in a desert.",
+    "answers": [
+      {
+        "label": "Dune",
+        "category": "plankton",
+        "points": 10
+      },
+      {
+        "label": "Lawrence of Arabia",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "The English Patient",
+        "category": "rare",
+        "points": 60
+      },
+      {
+        "label": "Gerry",
+        "category": "deep pull",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "question": "Name something that can be measured in knots.",
+    "answers": [
+      {
+        "label": "Wind",
+        "category": "plankton",
+        "points": 10
+      },
+      {
+        "label": "A ship's speed",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "A current",
+        "category": "rare",
+        "points": 60
+      },
+      {
+        "label": "A river's flow",
+        "category": "deep pull",
+        "points": 85
+      }
+    ]
+  },
+  {
+    "question": "Name an animal that can hold its breath for more than an hour.",
+    "answers": [
+      {
+        "label": "A whale",
+        "category": "schooler",
+        "points": 30
+      },
+      {
+        "label": "A sea turtle",
+        "category": "rare",
+        "points": 60
+      },
+      {
+        "label": "A sloth",
+        "category": "deep pull",
+        "points": 85
+      },
+      {
+        "label": "A sperm whale",
+        "category": "one in a krillion",
+        "points": 100
+      }
+    ]
+  }
+]
